@@ -1,0 +1,7 @@
+const ADD_TODOLIST = 'ADD_TODOLIST'
+const DEL_TODOLIST = 'DEL_TODOLIST'
+
+export {
+    ADD_TODOLIST,
+    DEL_TODOLIST
+}
